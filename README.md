@@ -10,8 +10,7 @@ Short films, animations, creative writing, design in 3D and 2D and other future 
 
 # Explore Me
 
-(- iDEA is everyone's space -Common Mission Lab and Hub Project)
-[https://coda.io/@mr-maclowelll/idea]
+[- iDEA is everyone's space -Common Mission Lab and Hub Project](https://coda.io/@mr-maclowelll/idea)
 
 (- iDEA  -Design OF business)
 [https://www.behance.net/gallery/214132493/iDEA-Everyones-Hub]
