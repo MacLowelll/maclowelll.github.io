@@ -4,7 +4,7 @@ plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 title: [Siom P ]
 description: [This is my Portfolio]
-bio: [I'm a self-taught designer and autodidact learner. My aim is to transform practical design into solutions to social problems present in my community. I firmly believe that design applied as a way/method of thinking can approach an objective yet integrative way to add value to a service/product or goal.
+description: [I'm a self-taught designer and autodidact learner. My aim is to transform practical design into solutions to social problems present in my community. I firmly believe that design applied as a way/method of thinking can approach an objective yet integrative way to add value to a service/product or goal.
 Quantum mechanics, society and logic, and design are on the foundations of my interests and passion. ]
 show_downloads: ["true" or "false" (unquoted) to indicate whether to provide a download URL]
 google_analytics: [Your Google Analytics tracking ID]
