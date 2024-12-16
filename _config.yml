@@ -4,4 +4,4 @@ theme: minima
 header pages: 
 - about.md
 body pages: 
-- whyidesign.html
+- whyidesign.md
