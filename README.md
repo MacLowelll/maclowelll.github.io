@@ -8,7 +8,7 @@ I firmly believe that design applied as a way/method of thinking can approach an
 [Second, design is not the solution but the core of it.](why-i-design-1.md)
 
 Synthesis: 
--If you ever ask me what is design, I'll tell you it's everything.
+If you ever ask me what is design, I'll tell you it's everything.
 
 # 🚩 Interests and Projects 
 
