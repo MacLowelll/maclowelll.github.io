@@ -10,7 +10,7 @@ I firmly believe that design applied as a way/method of thinking can approach an
 Synthesis: 
 If you ever ask me what is design, I'll tell you it's everything.
 
-# 🚩 Interests and Projects 
+# 🚩 Interests and New Projects 
 
 [iDEA is everyone's space -Common Mission Lab and Hub Project](https://coda.io/@mr-maclowelll/idea/env-design-9)
 
@@ -20,48 +20,46 @@ If you ever ask me what is design, I'll tell you it's everything.
 
 [Society and Economy: Tungsten -short film](https://docs.google.com/document/d/1hAdoAENF4OfJOwzpbgxsPTkBGXqGXUjtssEn6eicpUk/edit?usp=sharing)
 
-# Education: 
+[Short Film- iDEA Chapter 1: A point in space X](https://youtu.be/I0_Pw8lIBWQ?si=RwrWKt8VS1R1w-Ij)
 
-High School PE & BR 
-- Saco Oliveros
-- Colegio London/Invictus/Start Anglo
+# Portfolio Lybrary
 
-Programs 
 
-ICTP-SAIFR, Sao Paulo, BR 
-- Second School in Dark Matter and Neutrinos
-  July 16-20
-- Introduction to Special Relativity Agust 24,17,10 & 3
-- Introduction to Quantum Mechanics -Online Open Course 
+# 🔍 Programs 
 
-Enseña Peru 02/11 - 03/25 2023 
-- Admitted in Leadership Program for Students (PDLE)
+ICTP-SAIFR, Sao Paulo, BR 2024
+- [Second School in Dark Matter and Neutrinos
+  July 16-20](https://outreach.ictp-saifr.org/cursodeinverno/)
+- Introduction to Special Relativity Agust 10-24
+- Introduction to Quantum Mechanics -OCC
 
-Domestika-Web design on Figma by Pablo Stanley 2023 
-- Prototypes for interactive medical surgery class (5 days work)
-- Motion Video advertising New Product for alamece.com (4 days work)
-  
-Harvard CS50 Online Course (3 months) 2024 
-- Designed and developed a demo prototype for iDEA.env
+[Enseña Peru 02/11 - 03/25 2023](https://www.linkedin.com/company/ensenaperu/) 
+- 3 Month Leadership Program for Students (PDLE)
 
-Prendea Camp 2020
-inside (link)
-+During pandemic I attended several online courses at this ex-ycombinator candidate.
+[Prendea Camp 2020-21](https://www.linkedin.com/company/prendea/)2020
+[inside](inside.md)
+During pandemic I attended several online courses at this ex-ycombinator candidate.
 My project resulted from the skills and insights I gained with the variety of courses they offered
 and passionate teachers who encouraged me to be a maker.
+[Projects Prendea 2020](<iframe src="https://coda.io/embed/-Vdeeqs7KN/_su2Splhf?viewMode=embedplay" width=900 height=500 style="max-width: 100%;" allow="fullscreen"></iframe> )
 
-- Desing of an app for space exploration. 
+Domestika*Figma with Pablo Stanley 2020
+- [Course Project-Motion Video/Profile](https://www.figma.com/design/4VWlH8KUXTG2KptctJE8Ry/VIDEO-Cx.-New?node-id=0-1&t=Ei434pnzYf5D1qaJ-1) 
 
-MIT OpenCourseWare 2023-2024 (link)
-- Quantum Mechanics by Barton Zwiebach
-- Prototype to Product design
-- Toy Design and Game Theory
-- Marketing Management
+MIT/EDx/Internet OpenCourseWare Projects 2023-2024() (link)
+
+# Intern 
   
 Lead of Product Management at Alamece 
 Developed marketing strategy to automatize sales
 based on branding.
 120 students in the first week 
+
+# Education: 
+
+High School PE & BR 
+- Saco Oliveros 
+- Colegio London/Invictus/Start Anglo
 
 
 
