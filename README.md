@@ -9,13 +9,13 @@ Short films, animations, creative writing, design in 3D and 2D and other future 
 
 # Explore Me
 
-[- iDEA is everyone's space -Common Mission Lab and Hub Project](https://coda.io/@mr-maclowelll/idea)
+[iDEA is everyone's space -Common Mission Lab and Hub Project](https://coda.io/@mr-maclowelll/idea)
 
-[- iDEA  -Design OF business](https://www.behance.net/gallery/214132493/iDEA-Everyones-Hub)
+[iDEA  -Design OF business](https://www.behance.net/gallery/214132493/iDEA-Everyones-Hub)
 
-[- Breakthrough Challenge and Quantum Mechanics Project](https://drive.google.com/drive/folders/15WUvs2NXDPKtKIxn0zOBRT2W5aGzXHvo?usp=sharing)
+[Breakthrough Challenge and Quantum Mechanics Project](https://drive.google.com/drive/folders/15WUvs2NXDPKtKIxn0zOBRT2W5aGzXHvo?usp=sharing)
 
-[- Society and Economy: Tungsten -short film](https://docs.google.com/document/d/1hAdoAENF4OfJOwzpbgxsPTkBGXqGXUjtssEn6eicpUk/edit?usp=sharing)
+[Society and Economy: Tungsten -short film](https://docs.google.com/document/d/1hAdoAENF4OfJOwzpbgxsPTkBGXqGXUjtssEn6eicpUk/edit?usp=sharing)
 
 [][][]
 # WHY I DESIGN? 
