@@ -2,7 +2,7 @@
 I'm a self-taught designer and autodidact learner. My aim is to transform practical design into solutions to social problems present in my community.
 I firmly believe that design applied as a way/method of thinking can approach an objective yet integrative way to add value to a service/product or goal.
 
-# 🎲 WHY I DESIGN? 
+# 🎲 Why I design? 
 [First I thought of design as the solution to my society's problems](whyidesign2.html)
 The kind of issue that is challenging to understand, tackle, and you become easily 'consumed' by-sometimes.
 When I was 5y/o, I'd like to get lost every time I had the chance. Now, I realized it was the way I had to learn, interact, feel the urgency and act. 
