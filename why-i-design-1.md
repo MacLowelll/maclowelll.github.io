@@ -1,6 +1,5 @@
 ---
-layout: base
-title: "Second, design is not the solution but the core"
+layout: post
 categories: misc
 ---
 
