@@ -1,6 +1,5 @@
 ---
-layout: base
-title: "First I thought of Design as the solution to my society's problems"
+layout: post
 categories: misc
 ---
 
