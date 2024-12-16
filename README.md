@@ -52,7 +52,7 @@ ICTP-SAIFR, Sao Paulo, BR
 - Introduction to Quantum Mechanics -Online Open Course 
 
 Enseña Peru 02/11 - 03/25 2023 
-Admitted in Leadership Program for Students (PDLE)
+- Admitted in Leadership Program for Students (PDLE)
 
 Domestika-Web design on Figma by Pablo Stanley 2023 
 - Prototypes for interactive medical surgery class (5 days work)
@@ -60,13 +60,14 @@ Domestika-Web design on Figma by Pablo Stanley 2023
   
 Harvard CS50 Online Course (3 months) 2024 
 - Designed and developed a demo prototype for iDEA.env
+
 Prendea Camp 2020
 inside (link)
 +During pandemic I attended several online courses at this ex-ycombinator candidate.
 My project resulted from the skills and insights I gained with the variety of courses they offered
 and passionate teachers who encouraged me to be a maker.
 
-Desing of an app for space exploration. 
+- Desing of an app for space exploration. 
 
 MIT OpenCourseWare 2023-2024 (link)
 - Quantum Mechanics by Barton Zwiebach
@@ -79,16 +80,5 @@ Developed marketing strategy to automatize sales
 based on branding.
 120 students in the first week 
 
-
-
-
-  
-
-
-
-
-
-Tools
-Figma, iMovie and Krita Animations.  
 
 
