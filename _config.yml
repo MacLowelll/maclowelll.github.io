@@ -3,6 +3,5 @@ title: Siom Portfolio
 theme: minima
 header pages: 
 - about.md
-- portfolio
-footer pages: 
-- 🎲
+body pages: 
+- whyidesign.html
