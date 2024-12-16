@@ -1,8 +1,8 @@
 #
 
-[iDEA is everyone's space -Common Mission Lab and Hub Project](https://coda.io/@mr-maclowelll/idea)
+[iDEA is everyone's space -Common Mission Lab and Hub Project](https://coda.io/@mr-maclowelll/idea/env-design-9)
 
-[iDEA  -Design OF business](https://www.behance.net/gallery/214132493/iDEA-Everyones-Hub)
+[iDEA  -Product Design](https://www.behance.net/gallery/214132493/iDEA-Everyones-Hub)
 
 [Breakthrough Challenge and Quantum Mechanics Project](https://drive.google.com/drive/folders/15WUvs2NXDPKtKIxn0zOBRT2W5aGzXHvo?usp=sharing)
 
