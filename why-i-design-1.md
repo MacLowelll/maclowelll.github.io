@@ -1,5 +1,5 @@
 ---
-layout: subpage
+layout: base
 title: "Second, design is not the solution but the core"
 categories: misc
 ---
