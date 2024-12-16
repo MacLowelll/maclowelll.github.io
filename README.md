@@ -3,7 +3,7 @@ I'm a self-taught designer and autodidact learner. My aim is to transform practi
 I firmly believe that design applied as a way/method of thinking can approach an objective yet integrative way to add value to a service/product or goal.
 
 # 🎲 WHY I DESIGN? 
-First I thought of design as the solution to my society's problems. (link)
+[First I thought of design as the solution to my society's problems](whyidesign2.html)
 The kind of issue that is challenging to understand, tackle, and you become easily 'consumed' by-sometimes.
 When I was 5y/o, I'd like to get lost every time I had the chance. Now, I realized it was the way I had to learn, interact, feel the urgency and act. 
 It was my lab, my lab of thoughts; from the window of the 'micro' the passegers trying to squeeze among the cars to cross the road, would make me think in how the car's smoke shameless would become part of their clothes, breath but nothing would stop them from doing so. The panels in front of me outrageously advertising everything they touch was our welcoming to the popular district of 'El Agustino'. 
@@ -14,7 +14,7 @@ I had in mind that the way of living of my society could improve if they'd appre
 because it would make them crave for better experiences in their city and life.
 So I started with graphic design. It was nice. 
 
-Secod, design is not the solution but the core of it. (link)
+[Second, design is not the solution but the core of it.](whyidesign1.html)
 Decided to start with my own family business, soon I'd see design thinking applied in several ways to make profit from an excellent customer experience. 
 The skills I had earned with graphic design allowed me to tackle problems and design for the eye in general. As time passed by, design thinking flourished 
 to deal with customer's experience and the 'journey of purchase' or brand recognition among other systems/concept only companies, 
