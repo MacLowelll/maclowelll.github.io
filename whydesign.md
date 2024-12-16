@@ -1,5 +1,5 @@
 ---
-layout: body page
+layout:page
 title: 🎲 
 permalink: /whyidesign/
 ---
