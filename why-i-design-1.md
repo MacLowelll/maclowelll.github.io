@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Some articles are just so short that we have to make the footer stick"
+title: "Second, design is not the solution but the core"
 categories: misc
 ---
 Decided to start with my own family business, soon I’d see design thinking applied in several ways to make profit from an excellent customer experience. 
