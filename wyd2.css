@@ -1,8 +1,4 @@
 .wyd2 {
-  // <uniquifier>:font
-// <weight>:140
-
-.roboto-flex-<uniquifier> {
   font-family: "Roboto Flex", sans-serif;
   font-optical-sizing: auto;
   font-weight: <weight>;
@@ -18,7 +14,7 @@
     "YTDE" -203,
     "YTFI" 738,
     "YTLC" 514,
-    "YTUC" 712;}
+    "YTUC" 712;
     
   position: fixed;
   top: 0;
