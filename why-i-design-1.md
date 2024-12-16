@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: subpage
 title: "Second, design is not the solution but the core"
 categories: misc
 ---
