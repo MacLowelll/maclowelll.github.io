@@ -4,3 +4,5 @@ theme: minima
 header pages: 
 - about.md
 - portfolio
+footer pages: 
+- 🎲
