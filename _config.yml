@@ -10,3 +10,5 @@ header pages:
 - about.md
 body pages: 
 - whyidesign.md
+footer heading: 
+- about.md
