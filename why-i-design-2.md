@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '1'
+title: 1. ❇️
 categories: misc
 ---
 
