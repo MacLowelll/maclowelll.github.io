@@ -1,4 +1,4 @@
-# Explore Me
+#
 
 [iDEA is everyone's space -Common Mission Lab and Hub Project](https://coda.io/@mr-maclowelll/idea)
 
