@@ -1,5 +1,5 @@
 ---
-layout: port-link
+layout: page
 title: 🎲 
 permalink: /whyidesign/
 ---
