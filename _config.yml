@@ -1,6 +1,11 @@
 title: Siom Portfolio
 #show downloads: true
 theme: minima
+email: mr.maclowelll@gmail.com
+minima: 
+skin: classic
+name: maclowelll
+
 header pages: 
 - about.md
 body pages: 
