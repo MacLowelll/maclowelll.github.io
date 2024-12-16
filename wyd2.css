@@ -17,9 +17,9 @@
     "YTUC" 712;
     
   position: fixed;
-  top: 0;
+  top: 20px;
   width: 500px;
-  margin-top: 0;
+  margin-top: 30px;
   background: white;
-  padding: 10px;
+  padding: 15px;
 }
