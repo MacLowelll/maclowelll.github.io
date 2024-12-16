@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 🎲 Why I design? 
+title: 🎲 
 permalink: /whyidesign/
 ---
 
