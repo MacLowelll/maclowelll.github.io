@@ -7,9 +7,9 @@ I'm in constant exploration. My focus is to communicate my ideas in an arrange o
 comprehensible visual elements with which people can interact, feel and communicate. 
 Short films, animations, creative writing, design in 3D and 2D and other future means. 
 
-[iDEA is everyone's space -Common Mission Lab and Hub Project](https://coda.io/@mr-maclowelll/idea)
+[iDEA is everyone's space -Common Mission Lab and Hub Project](https://coda.io/@mr-maclowelll/idea/env-design-9)
 
-[iDEA -Product Design](https://www.figma.com/design/w11Pp4oVq1cN7xzlZVeYzW/iDEA-design?node-id=62-200&t=ShjeUgZ94saKe3ie-1)
+[iDEA -Product Design](https://www.behance.net/gallery/214132493/iDEA-Everyones-Hub)
 
 [Breakthrough Challenge and Quantum Mechanics Project](https://drive.google.com/drive/folders/15WUvs2NXDPKtKIxn0zOBRT2W5aGzXHvo?usp=sharing)
 
