@@ -1,4 +1,8 @@
-#
+---
+layout: page
+title: 🚩
+permalink: /interests/
+---
 
 [iDEA is everyone's space -Common Mission Lab and Hub Project](https://coda.io/@mr-maclowelll/idea/env-design-9)
 
