@@ -1,4 +1,5 @@
 
+[# ME](me.md)
 I'm a self-taught designer and autodidact learner. My aim is to transform practical design into solutions to social problems present in my community.
 I firmly believe that design applied as a way/method of thinking can approach an objective yet integrative way to add value to a service/product or goal.
 
@@ -23,7 +24,7 @@ If you ever ask me what is design, I'll tell you it's everything.
 [Short Film- iDEA Chapter 1: A point in space X](https://youtu.be/I0_Pw8lIBWQ?si=RwrWKt8VS1R1w-Ij)
 ![idea is MINIATURE](https://github.com/user-attachments/assets/451edd2d-de62-4f24-b018-08798a23b2ea)
 
-# [Portfolio Library](portfolio.md)
+# ⚙️ [Portfolio Library](portfolio.md)
 
 ![fill the gaps](https://github.com/user-attachments/assets/dff3632f-0816-4402-9a0f-a2eac0026ea6)
 
@@ -40,24 +41,27 @@ If you ever ask me what is design, I'll tell you it's everything.
 
 [Prendea Camp 2020-21](https://www.linkedin.com/company/prendea/)
 
-[inside®](inside.md)
+- [inside®](inside.md)**
 
-Shortcut:[Projects/Further Insights Prendea](https://coda.io/d/_d-Vdeeqs7KN/Prendea-and-Internet-2020-2022_su2Splh)
+- Shortcut: [Projects/Further Insights Prendea](https://coda.io/d/_d-Vdeeqs7KN/Prendea-and-Internet-2020-2022_su2Splh)
 
 Crehana/Domestika*Figma with Pablo Stanley 2020
 - [Course Project-Motion Video/UI Kit](https://www.figma.com/design/4VWlH8KUXTG2KptctJE8Ry/VIDEO-Cx.-New?node-id=0-1&t=Ei434pnzYf5D1qaJ-1) 
-- 
-MIT/EDx/Internet OpenCourseWare Projects 2023-2024() (link)
+
+- [MIT/EDx/Internet OpenCourseWare Projects 2023-2024](portfolio.md) 
 
 # Intern 
   
 Lead of Product Management at Alamece 
 Developed marketing strategy to automatize sales
 based on branding.
-120 students in the first week 
 
+- Education: [MIT/EDx/Internet OpenCourseWare Projects 2023-2024](portfolio.md) 
+- Results:
+
+  130% increase in sales 110% brand marketing research (LINK)
+  
 # Education: 
-
 High School PE & BR 
 - Saco Oliveros 
 - Colegio London/Invictus/Start Anglo
