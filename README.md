@@ -21,9 +21,11 @@ If you ever ask me what is design, I'll tell you it's everything.
 [Society and Economy: Tungsten -short film](https://docs.google.com/document/d/1hAdoAENF4OfJOwzpbgxsPTkBGXqGXUjtssEn6eicpUk/edit?usp=sharing)
 
 [Short Film- iDEA Chapter 1: A point in space X](https://youtu.be/I0_Pw8lIBWQ?si=RwrWKt8VS1R1w-Ij)
+![idea is MINIATURE](https://github.com/user-attachments/assets/451edd2d-de62-4f24-b018-08798a23b2ea)
 
-# Portfolio Library
-![Frame 28](https://github.com/user-attachments/assets/2871dd32-e158-4f26-a237-fad1ec915e05)
+# [Portfolio Library](portfolio.md)
+
+![fill the gaps](https://github.com/user-attachments/assets/dff3632f-0816-4402-9a0f-a2eac0026ea6)
 
 # 🔍 Programs 
 
