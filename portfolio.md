@@ -5,8 +5,8 @@ category: misc
 ---
 [⚙️ Portfolio Library](https://coda.io/@mr-maclowelll/siom-portfolio)
 
-Short Preview:
-![Frame 24](https://github.com/user-attachments/assets/da9edcfa-d692-47c8-b517-de25ffcfd17a)
+Preview:
+
 ![Frame 24](https://github.com/user-attachments/assets/cfbd1f1d-7fd0-4ee9-9922-7735c2a8b775)
 ![Frame 13 (1)](https://github.com/user-attachments/assets/cd73b7fe-2ba0-45c8-9610-d88c386d5515)
 ![Frame 11](https://github.com/user-attachments/assets/cfbb07ba-b49d-422e-ac01-8a7cfd2e94e7)
