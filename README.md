@@ -23,7 +23,7 @@ If you ever ask me what is design, I'll tell you it's everything.
 [Short Film- iDEA Chapter 1: A point in space X](https://youtu.be/I0_Pw8lIBWQ?si=RwrWKt8VS1R1w-Ij)
 
 # Portfolio Library
-
+![Frame 28](https://github.com/user-attachments/assets/2871dd32-e158-4f26-a237-fad1ec915e05)
 
 # 🔍 Programs 
 
