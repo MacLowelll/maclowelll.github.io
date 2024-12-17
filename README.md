@@ -22,12 +22,12 @@ If you ever ask me what is design, I'll tell you it's everything.
 
 [Short Film- iDEA Chapter 1: A point in space X](https://youtu.be/I0_Pw8lIBWQ?si=RwrWKt8VS1R1w-Ij)
 
-# Portfolio Lybrary
+# Portfolio Library
 
 
 # 🔍 Programs 
 
-ICTP-SAIFR, Sao Paulo, BR 2024
+[ICTP-SAIFR, Sao Paulo, BR 2024](https://www.ictp-saifr.org/)
 - [Second School in Dark Matter and Neutrinos
   July 16-20](https://outreach.ictp-saifr.org/cursodeinverno/)
 - Introduction to Special Relativity Agust 10-24
@@ -36,16 +36,16 @@ ICTP-SAIFR, Sao Paulo, BR 2024
 [Enseña Peru 02/11 - 03/25 2023](https://www.linkedin.com/company/ensenaperu/) 
 - 3 Month Leadership Program for Students (PDLE)
 
-[Prendea Camp 2020-21](https://www.linkedin.com/company/prendea/)2020
+[Prendea Camp 2020-21](https://www.linkedin.com/company/prendea/)
 [inside](inside.md)
 During pandemic I attended several online courses at this ex-ycombinator candidate.
-My project resulted from the skills and insights I gained with the variety of courses they offered
+My project resulted from the skills and insights I gained from the variety of courses they offered
 and passionate teachers who encouraged me to be a maker.
-[Projects Prendea 2020](<iframe src="https://coda.io/embed/-Vdeeqs7KN/_su2Splhf?viewMode=embedplay" width=900 height=500 style="max-width: 100%;" allow="fullscreen"></iframe> )
+[Projects/Further Insights Prendea](https://coda.io/d/_d-Vdeeqs7KN/Prendea-and-Internet-2020-2022_su2Splh)
 
-Domestika*Figma with Pablo Stanley 2020
-- [Course Project-Motion Video/Profile](https://www.figma.com/design/4VWlH8KUXTG2KptctJE8Ry/VIDEO-Cx.-New?node-id=0-1&t=Ei434pnzYf5D1qaJ-1) 
-
+Crehana/Domestika*Figma with Pablo Stanley 2020
+- [Course Project-Motion Video/UI Kit](https://www.figma.com/design/4VWlH8KUXTG2KptctJE8Ry/VIDEO-Cx.-New?node-id=0-1&t=Ei434pnzYf5D1qaJ-1) 
+- 
 MIT/EDx/Internet OpenCourseWare Projects 2023-2024() (link)
 
 # Intern 
