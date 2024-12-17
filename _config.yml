@@ -1,11 +1,12 @@
-title: Siomara P.  -Portfolio
+title: Siomara P. 
 #show downloads: true
 theme: minima
 email: mr.maclowelll@gmail.com
 minima: 
 skin: classic
 name: maclowelll
-
+footer name:
+Maclowelll on every social media
 header pages: 
 - about.md
 home pages: 
