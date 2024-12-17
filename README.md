@@ -37,13 +37,10 @@ If you ever ask me what is design, I'll tell you it's everything.
 - 3 Month Leadership Program for Students (PDLE)
 
 [Prendea Camp 2020-21](https://www.linkedin.com/company/prendea/)
-[inside](inside.md)
 
-During pandemic I attended several online courses at this ex-ycombinator candidate.
-My project resulted from the skills and insights I gained from the variety of courses they offered
-and passionate teachers who encouraged me to be a maker.
+[inside®](inside.md)
 
-[Projects/Further Insights Prendea](https://coda.io/d/_d-Vdeeqs7KN/Prendea-and-Internet-2020-2022_su2Splh)
+Shortcut:[Projects/Further Insights Prendea](https://coda.io/d/_d-Vdeeqs7KN/Prendea-and-Internet-2020-2022_su2Splh)
 
 Crehana/Domestika*Figma with Pablo Stanley 2020
 - [Course Project-Motion Video/UI Kit](https://www.figma.com/design/4VWlH8KUXTG2KptctJE8Ry/VIDEO-Cx.-New?node-id=0-1&t=Ei434pnzYf5D1qaJ-1) 
