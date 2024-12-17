@@ -1,8 +1,10 @@
 ---
 layout: post 
-title: inside®
+title: ⭕️
 category: misc
 ---
+
+# inside®
 
 During pandemic I attended several online courses at this ex-ycombinator candidate.
 My project resulted from the skills and insights I gained with the variety of courses they offered
