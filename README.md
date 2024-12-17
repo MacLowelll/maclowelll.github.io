@@ -38,9 +38,11 @@ If you ever ask me what is design, I'll tell you it's everything.
 
 [Prendea Camp 2020-21](https://www.linkedin.com/company/prendea/)
 [inside](inside.md)
+
 During pandemic I attended several online courses at this ex-ycombinator candidate.
 My project resulted from the skills and insights I gained from the variety of courses they offered
 and passionate teachers who encouraged me to be a maker.
+
 [Projects/Further Insights Prendea](https://coda.io/d/_d-Vdeeqs7KN/Prendea-and-Internet-2020-2022_su2Splh)
 
 Crehana/Domestika*Figma with Pablo Stanley 2020
