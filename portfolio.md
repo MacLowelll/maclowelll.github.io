@@ -1,15 +1,15 @@
 ---
 layout: page 
-title: ⚙️
+title: [⚙️ Explore](https://coda.io/@mr-maclowelll/siom-portfolio)
 category: misc
 ---
-[Library:](https://coda.io/@mr-maclowelll/siom-portfolio)
 
-Preview*
+Preview: 
 
-![Facebook cover - 1 (3)](https://github.com/user-attachments/assets/1b5d7a1d-2340-42ac-bc7f-979ff7541672)
 
 ![Frame 2](https://github.com/user-attachments/assets/eb989cd2-136c-4723-b5f0-afecc7c218e7)
+
+![Facebook cover - 1 (3)](https://github.com/user-attachments/assets/1b5d7a1d-2340-42ac-bc7f-979ff7541672)
 
 ![Frame 24](https://github.com/user-attachments/assets/cfbd1f1d-7fd0-4ee9-9922-7735c2a8b775)
 
