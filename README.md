@@ -4,24 +4,24 @@ I'm an autodidact learner and designer enthusiast. My aim is to transform practi
 I firmly believe that design applied as a holistic method of thinking offers an objective yet integrative appraoch to adding value to a service, product or goal.
 
 # 🎲 Why I design? 
-[First I thought of design as the solution to my society's problems](why-i-design-2.md)
+[First I thought of 'design' as the solution to my society's problems](why-i-design-2.md)
 
-[Second, design is not the solution but the core of it.](why-i-design-1.md)
+[Second, design for practial means.](why-i-design-1.md)
 
 Synthesis: 
 If you ever ask me what is design, I'll tell you it's everything.
 
 # 🚩 Interests and New Projects 
 
-[iDEA is everyone's space -Common Mission Lab and Hub Project](https://coda.io/@mr-maclowelll/idea/env-design-9)
+[Society and Economy: Tungsten -short film](https://docs.google.com/document/d/1hAdoAENF4OfJOwzpbgxsPTkBGXqGXUjtssEn6eicpUk/edit?usp=sharing)
+
+[Short Film- iDEA Chapter 1: A point in space X](https://youtu.be/I0_Pw8lIBWQ?si=RwrWKt8VS1R1w-Ij)
+
+[iDEA is everyone's space -Common Mission Lab and Hub Project](https://coda.io/@mr-maclowelll/idea)
 
 [iDEA -Product Design](https://www.behance.net/gallery/214132493/An-iDEA-product-design)
 
 [Breakthrough Challenge and Quantum Mechanics Project](https://drive.google.com/drive/folders/15WUvs2NXDPKtKIxn0zOBRT2W5aGzXHvo?usp=sharing)
-
-[Society and Economy: Tungsten -short film](https://docs.google.com/document/d/1hAdoAENF4OfJOwzpbgxsPTkBGXqGXUjtssEn6eicpUk/edit?usp=sharing)
-
-[Short Film- iDEA Chapter 1: A point in space X](https://youtu.be/I0_Pw8lIBWQ?si=RwrWKt8VS1R1w-Ij)
 
 ![idea is MINIATURE](https://github.com/user-attachments/assets/451edd2d-de62-4f24-b018-08798a23b2ea)
 
@@ -37,6 +37,8 @@ If you ever ask me what is design, I'll tell you it's everything.
 - Introduction to Special Relativity Agust 10-24
 - Introduction to Quantum Mechanics -OCC
 
+[MIT/EDx/Internet OpenCourseWare Projects 2023-2024](portfolio.md) 
+
 [Enseña Peru 02/11 - 03/25 2023](https://www.linkedin.com/company/ensenaperu/) 
 - 3 Month Leadership Program for Students (PDLE)
 
@@ -48,8 +50,6 @@ If you ever ask me what is design, I'll tell you it's everything.
 
 Crehana/Domestika Courses*Figma with Pablo Stanley 
   - [Course Project-Motion Video/UI ](https://www.figma.com/design/4VWlH8KUXTG2KptctJE8Ry/VIDEO-Cx.-New?node-id=0-1&t=Ei434pnzYf5D1qaJ-1) 
-
- [MIT/EDx/Internet OpenCourseWare Projects 2023-2024](portfolio.md) 
 
 # Intern Experience
   
