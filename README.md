@@ -1,7 +1,7 @@
 
 [# ME](me.md)
-I'm an autodidact learner and designer enthusiast. My aim is to transform practical design into solutions to social problems present in my community.
-I firmly believe that design applied as a way/method of thinking can approach an objective yet integrative way to add value to a service/product or goal.
+I'm an autodidact learner and designer enthusiast. My aim is to transform practical design into solutions to social problems in my community.
+I firmly believe that design applied as a holistic method of thinking offers an objective yet integrative appraoch to adding value to a service, product or goal.
 
 # 🎲 Why I design? 
 [First I thought of design as the solution to my society's problems](why-i-design-2.md)
