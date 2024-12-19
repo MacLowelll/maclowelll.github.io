@@ -29,7 +29,7 @@ If you ever ask me what is design, I'll tell you it's everything.
 
 ![fill the gaps](https://github.com/user-attachments/assets/dff3632f-0816-4402-9a0f-a2eac0026ea6)
 
-# 🔍 Programs 
+# 🔍 Student Programs 
 
 [ICTP-SAIFR, Sao Paulo, BR 2024](https://www.ictp-saifr.org/)
 - [Second School in Dark Matter and Neutrinos
@@ -42,25 +42,24 @@ If you ever ask me what is design, I'll tell you it's everything.
 
 [Prendea Camp 2020-21](https://www.linkedin.com/company/prendea/)
 
-- [inside®](inside.md)**
+- [inside® Prendea](inside.md)*
 
 - Shortcut: [Projects/Further Insights Prendea](https://coda.io/d/_d-Vdeeqs7KN/Prendea-and-Internet-2020-2022_su2Splh)
 
-Crehana/Domestika*Figma with Pablo Stanley 2020
-- [Course Project-Motion Video/UI Kit](https://www.figma.com/design/4VWlH8KUXTG2KptctJE8Ry/VIDEO-Cx.-New?node-id=0-1&t=Ei434pnzYf5D1qaJ-1) 
+Crehana/Domestika Courses*Figma with Pablo Stanley 
+  - [Course Project-Motion Video/UI ](https://www.figma.com/design/4VWlH8KUXTG2KptctJE8Ry/VIDEO-Cx.-New?node-id=0-1&t=Ei434pnzYf5D1qaJ-1) 
 
-- [MIT/EDx/Internet OpenCourseWare Projects 2023-2024](portfolio.md) 
+ [MIT/EDx/Internet OpenCourseWare Projects 2023-2024](portfolio.md) 
 
-# Intern 
+# Intern Experience
   
-Lead of Product Management at Alamece 
-Developed marketing strategy to automatize sales
-based on branding.
+Lead of Product Management at Alamece
+- Developed marketing strategy to automatize sales
+  based on branding.
 
-- Education: [MIT/EDx/Internet OpenCourseWare Projects 2023-2024](portfolio.md) 
 - Results:
-
-  130% increase in sales 110% brand marketing research (LINK)
+  130% increase in sales
+  110% brand marketing research (LINK)
   
 # Education: 
 High School PE & BR 
