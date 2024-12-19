@@ -4,10 +4,9 @@ title: ⚙️
 category: misc
 ---
 
-[Explore](https://coda.io/@mr-maclowelll/siom-portfolio)
+# [Explore](https://coda.io/@mr-maclowelll/siom-portfolio)
 
 Preview: 
-
 ![Group 12 (2)](https://github.com/user-attachments/assets/5da5b689-7929-452b-8b7c-691bc634438a)
 
 ![Facebook cover - 1 (3)](https://github.com/user-attachments/assets/1b5d7a1d-2340-42ac-bc7f-979ff7541672)
