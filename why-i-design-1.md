@@ -4,6 +4,8 @@ title: 2. 🌀
 categories: misc
 ---
 
+*Second, design for practical means.
+
 Decided to start with my own family business, soon I’d see design thinking applied in several ways to make profit from an excellent customer experience. 
 The skills I had earned with graphic design allowed me to tackle problems and design for the eye in general. As time passed by, design thinking flourished 
 to deal with customer’s experience and the ‘journey of purchase’ or brand recognition among other systems/concept only companies, no matter how small they are,
