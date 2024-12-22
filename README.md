@@ -27,7 +27,7 @@ If you ever ask me what is design, I'll tell you it's everything.
 
 # ⚙️ [Portfolio Library](portfolio.md)
 
-![fill the gaps](https://github.com/user-attachments/assets/dff3632f-0816-4402-9a0f-a2eac0026ea6)
+![Frame 9](https://github.com/user-attachments/assets/f1c32270-485b-4368-a5b4-a571b2124f5b)
 
 # 🔍 Student Programs 
 
