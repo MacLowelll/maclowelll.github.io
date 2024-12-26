@@ -21,7 +21,7 @@ If you ever ask me what is design, I'll tell you it's everything.
 
 [Society and Economy: Tungsten -short film](https://docs.google.com/document/d/1hAdoAENF4OfJOwzpbgxsPTkBGXqGXUjtssEn6eicpUk/edit?usp=sharing)
 
-[Breakthrough Challenge and Quantum Mechanics Project](https://drive.google.com/drive/folders/15WUvs2NXDPKtKIxn0zOBRT2W5aGzXHvo?usp=sharing)
+[Breakthrough Challenge and Quantum Mechanics Project](https://docs.google.com/document/d/1jZTWLgYTd5du_uJtekKPnSo36YBdvfrMYnIrIypQ-kg/edit?tab=t.0)
 
 ![idea is MINIATURE](https://github.com/user-attachments/assets/451edd2d-de62-4f24-b018-08798a23b2ea)
 
