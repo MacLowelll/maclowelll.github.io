@@ -15,13 +15,13 @@ If you ever ask me what is design, I'll tell you it's everything.
 
 [Short Film- iDEA Chapter 1: A point in space X](https://youtu.be/I0_Pw8lIBWQ?si=RwrWKt8VS1R1w-Ij)
 
+[Society and Economics: Tungsten -short film](https://docs.google.com/document/d/1hAdoAENF4OfJOwzpbgxsPTkBGXqGXUjtssEn6eicpUk/edit?usp=sharing)
+
+[Breakthrough Challenge and Quantum Mechanics Project](https://docs.google.com/document/d/1jZTWLgYTd5du_uJtekKPnSo36YBdvfrMYnIrIypQ-kg/edit?tab=t.0)
+
 [iDEA is everyone's space -Common Mission Lab and Hub Project](https://coda.io/@mr-maclowelll/idea)
 
 [iDEA -Product Design](https://www.behance.net/gallery/214132493/An-iDEA-product-design)
-
-[Society and Economy: Tungsten -short film](https://docs.google.com/document/d/1hAdoAENF4OfJOwzpbgxsPTkBGXqGXUjtssEn6eicpUk/edit?usp=sharing)
-
-[Breakthrough Challenge and Quantum Mechanics Project](https://docs.google.com/document/d/1jZTWLgYTd5du_uJtekKPnSo36YBdvfrMYnIrIypQ-kg/edit?tab=t.0)
 
 ![idea is MINIATURE](https://github.com/user-attachments/assets/451edd2d-de62-4f24-b018-08798a23b2ea)
 
@@ -35,7 +35,7 @@ If you ever ask me what is design, I'll tell you it's everything.
 - [Second School in Dark Matter and Neutrinos
   July 16-20](https://outreach.ictp-saifr.org/cursodeinverno/)
 - Introduction to Special Relativity Agust 10-24
-- Introduction to Quantum Mechanics -OCC
+- Introduction to Quantum Mechanics -Open Online Course
 
 [MIT/EDx/Internet OpenCourseWare Projects 2023-2024](portfolio.md) 
 
@@ -45,8 +45,6 @@ If you ever ask me what is design, I'll tell you it's everything.
 [Prendea Camp 2020-21](https://www.linkedin.com/company/prendea/)
 
 - [inside® Prendea](inside.md)*
-
-- Shortcut: [Projects/Further Insights Prendea](https://coda.io/d/_d-Vdeeqs7KN/Prendea-and-Internet-2020-2022_su2Splh)
 
 Crehana/Domestika Courses*Figma with Pablo Stanley 
   - [Course Project-Motion Video/UI ](https://www.figma.com/design/4VWlH8KUXTG2KptctJE8Ry/VIDEO-Cx.-New?node-id=0-1&t=Ei434pnzYf5D1qaJ-1) 
